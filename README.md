@@ -87,6 +87,26 @@ MRL ROM Manager et PUNKY proposent une interface multilingue.
 
 ![Langues disponibles](06_MRL_Cinq_Langues.png)
 
+### 🛒 Matériel nécessaire pour PUNKY
+
+Pour fabriquer votre propre PUNKY, utilisez le modèle d'écran ESP32-S3 compatible avec notre firmware V1.0.
+
+**Écran utilisé : Waveshare ESP32-S3-Touch-AMOLED-1.75**
+
+- Écran tactile rond AMOLED.
+- Résolution : 466 × 466 pixels.
+- Microcontrôleur ESP32-S3.
+- Connexion Wi-Fi 2,4 GHz.
+- Port USB-C pour l'installation du firmware.
+
+**[🛒 Acheter l'écran PUNKY sur Amazon](https://www.amazon.fr/dp/B0F7XTJ1ZL)**
+
+⚠️ Attention : toutes les cartes ESP32-S3 à écran rond ne sont pas interchangeables. Vérifiez la référence exacte avant de commander.
+
+Le firmware PUNKY V1.0 est fourni directement avec MRL ROM Manager.
+
+**🖨️ Boîtier imprimable en 3D :** le fichier STL sera partagé gratuitement après validation des derniers tests d'impression et de montage.
+
 ## 📦 Téléchargement et installation
 
 La V1.0 comprend deux fichiers de distribution :
@@ -117,11 +137,17 @@ Tests réussis : installation complète depuis zéro, connexion de l'écosystèm
 
 Les tests réalisés ne garantissent pas la compatibilité de toutes les configurations matérielles.
 
-## 🖨️ Boîtier PUNKY — Impression 3D
+### 🖨️ Impression 3D — Boîtier PUNKY
 
-Le fichier **STL du boîtier PUNKY** sera partagé gratuitement après validation des tests d'impression et de montage.
+Vous souhaitez fabriquer votre propre boîtier PUNKY ?
 
-**À venir — pas encore disponible.**
+**Matériel d'impression 3D :**
+
+[🛒 Voir le matériel utilisé sur Amazon](https://www.amazon.fr/dp/B0GX6SWY8N)
+
+**Fichier STL officiel :** il sera partagé gratuitement après validation des tests d'impression et de montage.
+
+⚠️ Le STL n'est pas encore disponible dans cette première version.
 
 ## ☕ Soutenir le projet
 
